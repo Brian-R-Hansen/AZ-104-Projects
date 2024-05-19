@@ -29,7 +29,7 @@ Usage
 
     If any step fails, the script will output an error message and exit. If the storage account creation fails, the script will also remove the created resource group.
 
-    Notes
+Notes
 
     Ensure the names for the resource group and storage account comply with the naming conventions specified in the prompts.
     Adjust the region (East US 2) and container name (web-app-container) as needed.
